@@ -1,4 +1,4 @@
-### LOG INGESTION SCRIPT
+### LOG PARSER AND INGESTION SCRIPT
 
 ### Why Elasticsearch + Kibana?
 1. Simple to setup
